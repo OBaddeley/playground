@@ -1,6 +1,6 @@
-﻿$(function () {
-    $("#date").datepicker();
-});
+﻿//$(function () {
+//    $("#date").datepicker();
+//});
 
 $(".end").click(function () {
    $(this).css("color", "red"); 
@@ -29,6 +29,6 @@ $(".showButton").click(function () {
 
     if ($('.codeInput').val() === "SHOW") {
         $(".message").show();
-        //$('.codeInput').val().replaceWith("");
+        //$('.codeInput').val().replaceWith(""); //to clear the textbox input..
     }
 });
