@@ -20,3 +20,15 @@ textarea {
     position: relative;
     right: -75%;
 }
+
+.paper {
+    background-color: aquamarine;
+    height: 100%;
+    width: 90%;
+}
+
+.message {
+    background-color: lightblue;
+    height: 100%;
+
+}
