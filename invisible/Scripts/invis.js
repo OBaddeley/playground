@@ -18,6 +18,8 @@ $(".inviButton").click(function() {
     $(".message").hide();
 });
 
+// ? Future generate the secret code word each time?
+
 //$(".showButton").click(function() {
 //    $(".message").show();
 //});
